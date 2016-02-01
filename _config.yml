@@ -2,6 +2,7 @@ name: Brian Test Site
 favicon: null
 layout_spectrum: 0.6348777634557337
 typography_spectrum: 0.1502
+title: B Test Site
 cta:
   domain: null
   bucket: null
